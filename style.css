@@ -1,0 +1,15 @@
+.w-img {
+  height: 18vh;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  ;
+}
+
+.card:hover {
+  transform: scale(1 .5);
+}
+
+.min-height {
+  min-height: 50vh;
+}
